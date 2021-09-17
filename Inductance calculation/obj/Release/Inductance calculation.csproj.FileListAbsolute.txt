@@ -1,0 +1,28 @@
+D:\Inst\Inductance calculation\Inductance calculation\bin\Release\Inductance calculation.exe.config
+D:\Inst\Inductance calculation\Inductance calculation\bin\Release\Inductance calculation.exe.manifest
+D:\Inst\Inductance calculation\Inductance calculation\bin\Release\Inductance calculation.application
+D:\Inst\Inductance calculation\Inductance calculation\bin\Release\Inductance calculation.exe
+D:\Inst\Inductance calculation\Inductance calculation\bin\Release\Inductance calculation.pdb
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance_calculation.Form1.resources
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance_calculation.Properties.Resources.resources
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.GenerateResource.cache
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.CoreCompileInputs.cache
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.exe.manifest
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.application
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.exe
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.pdb
+D:\Inst\Inductance calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.AssemblyReference.cache
+D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.exe.config
+D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.exe.manifest
+D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.application
+D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.exe
+D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.pdb
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.AssemblyReference.cache
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Form1.resources
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Properties.Resources.resources
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.GenerateResource.cache
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.CoreCompileInputs.cache
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.exe.manifest
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.application
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.exe
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.pdb
