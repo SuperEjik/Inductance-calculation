@@ -42,13 +42,11 @@ namespace Inductance_calculation
             char number = e.KeyChar;
             string t1 = sender.GetType().Name;
 
-            /* if ((!Char.IsDigit(number) && number != 8 && number != 44))*/// цифры, клавиша BackSpace и запятая.IndexOf(",")
-            if (!Char.IsDigit(number))
+            if ( ((!Char.IsDigit(number) && number != 8 && number != 44)) 
+                || (text_box.Contains(number.ToString()) && number.ToString() == ",")
+                || (text_box == "" && number.ToString() == ",") )/// цифры, клавиша BackSpace и запятая.IndexOf(",")
             {
-                if ((text_box.IndexOf(",") != -1 || (text_box == "" && number == 44)) && number != 8)
-                {
-                    e.Handled = true;
-                }
+                e.Handled = true;
             }
         }
 
