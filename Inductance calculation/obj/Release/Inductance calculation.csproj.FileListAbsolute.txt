@@ -18,7 +18,6 @@ D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance cal
 D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.exe
 D:\Inst\Inductance-calculation\Inductance calculation\bin\Release\Inductance calculation.pdb
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.AssemblyReference.cache
-D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Form1.resources
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Properties.Resources.resources
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.GenerateResource.cache
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.csproj.CoreCompileInputs.cache
@@ -26,3 +25,5 @@ D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance cal
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.application
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.exe
 D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance calculation.pdb
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Inductance_calculation_form.resources
+D:\Inst\Inductance-calculation\Inductance calculation\obj\Release\Inductance_calculation.Graphs_inductanc_form.resources

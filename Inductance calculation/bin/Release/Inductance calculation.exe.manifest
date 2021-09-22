@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Inductance calculation.exe" size="14816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Inductance calculation.exe" size="18912">
       <assemblyIdentity name="Inductance calculation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5Uxwgx6Jsz1O7npBt0CiPKz6fpHTopQudRXToORbcrA=</dsig:DigestValue>
+        <dsig:DigestValue>GkbeAXL5rRjJhl8e7GHdFI6ZIvp+RyLwoGpDQGuhsTk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

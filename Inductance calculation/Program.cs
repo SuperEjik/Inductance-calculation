@@ -13,7 +13,8 @@ namespace Inductance_calculation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Inductance_calculation_form());
+            //Application.Run(new Graphs_inductanc_form());
         }
     }
 }
